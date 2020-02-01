@@ -1,0 +1,35 @@
+*{
+    font-family: 'Titillium Web', sans-serif;
+}
+.header{
+    padding-top: 14px;
+    padding-bottom: 7px;
+}
+body{
+    background: #abbaab;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffffff, #abbaab);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffffff, #abbaab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.mision{
+    height: 70px;
+}
+header{
+    background-image: url(./logo.jpg);
+    box-sizing: content-box;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.vision{
+    width: 90px;
+}
+.cont{
+    border-top: solid rgb(11, 4, 54) 2px;
+}
+h3, h2, h1{
+    font-weight: bold;
+}
+.lab{
+    box-sizing: content-box;
+}
